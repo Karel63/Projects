@@ -1,10 +1,5 @@
 <?php
 
-/*
-Jak použít kód: http://localhost/[název souboru]/[operátor]
-Validní operátory: add, sum, sub, min, mul, div
-*/
-
 $data = json_decode(file_get_contents("faze3.json"));
 
 $url = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
