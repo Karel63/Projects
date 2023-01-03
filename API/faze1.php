@@ -1,10 +1,5 @@
 <?php
 
-/*
-Jak použít kód: http://localhost/index.php/?o=[operátor]&n=[první číslo],[druhé číslo],[atd...(vždy oddělit čárkou)]
-Validní operátory: add, sum, sub, mul, div
-*/
-
 $operation = htmlentities($_GET["o"]);
 $number = htmlentities($_GET["n"]);
 $number = explode(',',$number);
