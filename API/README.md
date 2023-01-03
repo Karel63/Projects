@@ -11,4 +11,5 @@ add, sum, sub, min, mul, div
 
 ## Jak použít kód u fáze 3: 
 `http://localhost/[název souboru]/[název operátoru]`
+
 K fázi 3 je potřeba soubor faze3.json ve složce utils, zde se dají uprovovat vstupní čísla
