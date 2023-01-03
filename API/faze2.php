@@ -1,10 +1,5 @@
 <?php
 
-/*
-Jak použít kód: http://localhost/index.php/[operátor]/[první číslo]/[druhé číslo]/[atd...]
-Validní operátory: add, sum, sub, mul, div
-*/
-
 $uri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $uri = explode( '/', $uri);
 
@@ -12,9 +7,9 @@ $operation = $uri[1];
 for($t = 2, $s = 0; $t < sizeof($uri); $t++, $s++){
     $number[$s] = intval($uri[$t]);
 }
-
 $count = sizeof($number);
 $result = $number[0];
+
 if($number[0] == NULL || $operation == NULL){
     print_r(json_encode(["report" => "Operator or number not filled"]));
     exit;
