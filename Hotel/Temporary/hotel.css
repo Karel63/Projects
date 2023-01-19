@@ -1,0 +1,271 @@
+:root{
+    --black: rgba(0, 0, 0, 1);
+    --unmellow-yellow: rgba(8, 49, 223, 1);
+    --japanese-laurel: rgba(0, 114, 4, 0.102);
+    --shark: rgba(38, 37, 44, 1);
+    --outer-space: rgba(48, 49, 61, 1);
+    --white: rgba(255, 255, 255, 1);
+    --font-size-m: 36px;
+    --font-size-1: 40px;
+    --font-size-xl: 48px;
+    --font-family-inter: "Inter";
+}
+
+body{
+    margin: 0;
+    background-color: rgba(48, 49, 61, 1);
+    color: white;
+}
+
+.mainPage{
+    align-items: flex-start;
+    background-color: #30313d;
+    display: flex;
+    height: 100%;
+    overflow: hidden;
+    width: 100%;
+}
+
+.leftLine{
+    background-color: #26252c;
+    height: 100%;
+    position: fixed;
+    width: 25%;
+}
+
+.textUp{
+    color: white;
+    font-weight: 400;
+    left: 1%;
+    font-family: var(--font-family-inter); 
+    font-size: var(--font-size-1); 
+    line-height: normal; 
+    text-align: center;
+    letter-spacing: 0;
+    position: fixed;
+    top: 0;
+    margin-right: 76%;
+}
+
+.textBottom{
+    color: white;
+    font-weight: 400;
+    left: 1%;
+    font-family: var(--font-family-inter); 
+    font-size: var(--font-size-1); 
+    line-height: normal; 
+    text-align: center;
+    letter-spacing: 0;
+    position: fixed;
+    top: 80%;
+    margin-right: 76%;
+}
+
+.buttons{
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0.5%;
+    position: fixed;
+    width: 15%;
+    height: 5%;
+}
+
+.group1{ 
+    align-items: flex-start; 
+    cursor: pointer; 
+    display: flex;
+}
+
+.group2{
+    align-items: flex-start; 
+    cursor: pointer; 
+    display: flex;
+}
+
+.group3{
+    align-items: flex-start; 
+    cursor: pointer; 
+    display: flex;
+}
+
+.group4{
+    align-items: flex-start; 
+    cursor: pointer; 
+    display: flex;
+}
+
+.rectangle1{
+    background-color: #0031df;
+    border-radius: 10px;
+    left: 0.5%;
+    position: absolute;
+    margin-top: 100%;
+    height: 75px;
+    width: 400px;
+}
+
+.rectangle2{ 
+    background-color: var(--black); 
+    border-radius: 10px; 
+    left: 0.5%; 
+    position: absolute; 
+    margin-top: 140%;
+    height: 75px;
+    width: 400px;
+}
+
+.rectangle3{ 
+    background-color: var(--black); 
+    border-radius: 10px; 
+    left: 0.5%; 
+    position: absolute; 
+    margin-top: 180%;
+    height: 75px;
+    width: 400px;
+}
+
+.rectangle4{ 
+    background-color: var(--black); 
+    border-radius: 10px; 
+    left: 0.5%; 
+    position: absolute; 
+    margin-top: 220%;
+    height: 75px;
+    width: 400px;
+}
+
+.uvod{
+    line-height: normal; 
+    position: fixed; 
+    text-align: center;
+    margin-top: 16.2%;
+    margin-left: 10%;
+    font-size: 200%;
+}
+
+.sluzby{ 
+    line-height: normal; 
+    position: fixed; 
+    text-align: center; 
+    margin-top: 22.1%;
+    margin-left: 9.6%;
+    font-size: 200%;
+}
+
+.kontakty{
+    line-height: normal; 
+    position: fixed; 
+    text-align: center;  
+    margin-top: 28%;
+    margin-left: 8.8%;
+    font-size: 200%;
+}
+
+.fotogalerie {
+    line-height: normal; 
+    position: fixed; 
+    text-align: center;
+    margin-top: 33.9%;
+    margin-left: 8.1%;
+    font-size: 200%;
+}
+
+.square{
+    align-items: flex-start; 
+    background-color: #26252d;
+    border-radius: 50px; 
+    display: flex;
+    flex-direction: column;
+    left: 27.5%;
+    height: 200%;
+    position: absolute;
+    top: 0%;
+    width: 70%;
+    display: flex;
+}
+
+.text1{
+    color: white;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 15%;
+    line-height: normal;
+    position: absolute; 
+    text-align: center;
+    top: -2%;
+    width: 70%;
+    font-size: 400%;
+}
+   
+.text2{
+    color: white;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    left: 2.5%;
+    line-height: normal;
+    position: absolute; 
+    text-align: center;
+    top: 5%;
+    width: 95%;
+}
+
+.image1{
+    height: 95%;
+    width: 95%;
+}
+ 
+/*
+.balls { 
+    align-items: flex-end;
+    display: flex; 
+    flex-direction: column; 
+    gap: 152px; 
+    left: 0; 
+    min-height: 1370px; 
+    padding: 97px 0; 
+    position: absolute; 
+    top: 0; 
+    width: 788px; 
+}
+
+.ellipse-container { 
+    height: 547px; 
+    margin-top: 96px; 
+    position: relative; 
+    width: 627px;
+}
+
+.ball3{ 
+    height: 285px; 
+    left: 0; 
+    position: absolute; 
+    top: 8;
+    width: 314px;
+}
+
+.ball1{
+    height: 285px; 
+    left: 0; 
+    position: absolute; 
+    top: 8;
+    width: 314px;
+}
+
+.ball2{
+    height: 285px; 
+    left: 0; 
+    position: absolute; 
+    top: 8;
+    width: 314px;
+}
+
+.line-1 {
+    height: 21px;
+    left: 0; position: absolute;
+    top: 0;
+    width: 1378px;
+}
+*/
