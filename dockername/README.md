@@ -3,16 +3,16 @@
 ## Fotky
 
 ### Fotka DockerFile
-[Zde]()
+[Zde](https://github.com/Karel63/Projects/blob/main/dockername/DockerPhotos/DockerFile.png)
 
 ### Fotka Build image
-[Zde]()
+[Zde](https://github.com/Karel63/Projects/blob/main/dockername/DockerPhotos/BuildImage.png)
 
 ### Fotka Run image
-[Zde]()
+[Zde](https://github.com/Karel63/Projects/blob/main/dockername/DockerPhotos/RunImage.png)
 
 ### Kontejner a užití aplikace
-[Zde]()
+[Zde](https://github.com/Karel63/Projects/blob/main/dockername/DockerPhotos/Container.png)
 
 ## Poznámka
 
