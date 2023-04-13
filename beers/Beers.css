@@ -1,0 +1,11 @@
+body{
+    background-color: cornflowerblue;
+}
+
+th{
+    border: 2px solid;
+}
+
+td{
+    padding-right: 150px;
+}
