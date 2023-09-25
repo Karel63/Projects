@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TalesOfHorror</title>
+    <link rel="stylesheet" href="./test.js">
+    <link rel="stylesheet" href="./test.css">
+</head>
+<body>
+    <header>
+        <div class="Title">
+            <div>
+                <h1>GIGAKNIHY</h1>
+            </div>
+            <div class="Buttons">
+                <div>
+                    <p>Menu</p>
+                </div>
+                <div>
+                    <p>Knihy</p>
+                </div>
+                <div>
+                    <p>Kontakty</p>
+                </div>
+                <div>
+                    <p>Další</p>
+                </div>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="MainGrid">
+            <div class="Buttons2">
+                <p>Knihy</p>
+                <p>Pro děti</p>
+                <p>Hračky</p>
+                <p>Elektronika</p>
+                <p>Ostatní</p>
+            </div>
+            <div class="Cover">
+                <img class="ImgCover" src="./tales-of-horror.jpg" alt="Cover of the book">
+            </div>
+            <div class="MainGrid2">
+                <div class="MainDesc">
+                    <p><b>Tales of horror</b></p>
+                    <p class="Misc">
+                        Nakladatel: Bloomsbury Trade<br>
+                        Kód: 279597715<br>
+                        Rok vydání: 2016<br>
+                        Jazyk: Angličtina<br>
+                        Vazba: Paperback / softback<br>
+                        Počet stran: 352
+                    </p>
+                </div>
+                <div class="MainPrice">
+                    <p>Cena:&nbsp;</p>
+                    <p class="Price">399&nbsp;</p>
+                    <p>Kč</p>
+                </div>
+                <div class="Buy">
+                    <p>KOUPIT</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div>
+            <h2 class="Boots">Bla bla</h2>
+        </div>
+    </footer>
+</body>
+</html>
