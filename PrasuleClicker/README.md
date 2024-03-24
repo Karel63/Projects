@@ -12,9 +12,11 @@
 
 # Assety
 - Všechny textury jsou udělány mnou pomocí: Photoshop, Photopea.
-- [Odkaz na textury](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/Textures)
 - Všechny zvuky jsou udělány přes mojí pusu pomocí: Voice Recorder.
 - Hudba je udělána mnou pomocí: FL Studio.
+
+## Odkazy
+- [Odkaz na textury](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/Textures)
 - [Odkaz na zvuky a hudbu](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/MusicSounds)
 - [Odkaz na soundcloud vydání mé hudby](https://on.soundcloud.com/GJjJ8)
 
