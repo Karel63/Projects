@@ -22,5 +22,5 @@
 - [Odkaz na screenshoty](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots)
 ![Screenshot1](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/Editor2D.png)
 ![Screenshot2](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/EditorScript.png) 
-![Screenshot3](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/Millionare.png) 
+![Screenshot3](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/Millionare.png) 
 ![Screenshot4](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/Rich.png) 
