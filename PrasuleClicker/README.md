@@ -7,10 +7,10 @@
 - Cílem hry je získat co nejvíce peněz, klikáte na peníz a získáváte finance. Kupujete pomocníky a upgrady, které budou získávat peníze za vás a budou vám zlepšovat klikací sílu (cpw -> získaný počet peněz za jeden klik).
 - Poznámka: Count u kupování pomocníků značí počet vašich pomocníků. Count u upgradů značí kolik pomocníků budete potřebovat pro odemknutí toho upgradu.
 
-# Video
+## Video
 - [Odkaz na youtube video mé hry](https://www.youtube.com/watch?v=goR8J_0-ux0&list=PL-IkJ3M-8i4lc-yJt1muw1y-wj2ksH97f&index=2)
 
-# Assety
+## Assety
 - Všechny textury jsou udělány mnou pomocí: Photoshop, Photopea.
 - Všechny zvuky jsou udělány přes mojí pusu pomocí: Voice Recorder.
 - Hudba je udělána mnou pomocí: FL Studio.
