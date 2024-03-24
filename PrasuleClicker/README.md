@@ -12,15 +12,15 @@
 
 # Assety
 - Všechny textury jsou udělány mnou pomocí: Photoshop, Photopea.
-- [Odkaz na textury](https://github.com/Karel63/phpworks/blob/main/BlockChainUpdated/Chain.php)
+- [Odkaz na textury](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/Textures)
 - Všechny zvuky jsou udělány přes mojí pusu pomocí: Voice Recorder.
 - Hudba je udělána mnou pomocí: FL Studio.
-- [Odkaz na zvuky a hudbu](https://github.com/Karel63/phpworks/blob/main/BlockChainUpdated/Chain.php)
+- [Odkaz na zvuky a hudbu](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/MusicSounds)
 - [Odkaz na soundcloud vydání mé hudby](https://on.soundcloud.com/GJjJ8)
 
 ## Screenshoty
-- [Odkaz na screenshoty](https://github.com/Karel63/phpworks/blob/main/BlockChainUpdated/Chain.php)
-![Screenshot1](https://raw.githubusercontent.com/Karel63/phpworks/main/BlockChainUpdated/UmlClassDiagram.png)
-![Screenshot2](https://raw.githubusercontent.com/Karel63/phpworks/main/BlockChainUpdated/UmlClassDiagram.png) 
-![Screenshot3](https://raw.githubusercontent.com/Karel63/phpworks/main/BlockChainUpdated/UmlClassDiagram.png) 
-![Screenshot4](https://raw.githubusercontent.com/Karel63/phpworks/main/BlockChainUpdated/UmlClassDiagram.png) 
+- [Odkaz na screenshoty](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots)
+![Screenshot1](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/Editor2D.png)
+![Screenshot2](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/EditorScript.png) 
+![Screenshot3](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/Millionare.png) 
+![Screenshot4](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots/Rich.png) 
