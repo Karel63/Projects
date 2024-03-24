@@ -18,10 +18,10 @@
 ## Odkazy
 - [Odkaz na textury](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/Textures)
 - [Odkaz na zvuky a hudbu](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Assets/MusicSounds)
+- [Odkaz na screenshoty](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots)
 - [Odkaz na soundcloud vydání mé hudby](https://on.soundcloud.com/GJjJ8)
 
 ## Screenshoty
-- [Odkaz na screenshoty](https://github.com/Karel63/Projects/tree/main/PrasuleClicker/Screenshots)
 ![Screenshot1](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/Editor2D.png)
 ![Screenshot2](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/EditorScript.png)
 ![Screenshot1](https://github.com/Karel63/Projects/blob/main/PrasuleClicker/Screenshots/Poor.png)
